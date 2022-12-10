@@ -1,3 +1,4 @@
+torch
 tensorboardX==1.6.0
 torchvision
 joblib
@@ -5,7 +6,3 @@ pandas
 argparse
 numpy
 sklearn
-torch
-os
-time
-torch
