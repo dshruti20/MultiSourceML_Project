@@ -1,0 +1,8 @@
+torch
+tensorboardX==1.6.0
+torchvision
+joblib==1.2.0
+pandas
+argparse
+numpy
+sklearn
